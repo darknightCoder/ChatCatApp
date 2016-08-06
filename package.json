@@ -1,0 +1,35 @@
+{
+  "name": "chatcatapp",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darknightCoder/ChatCatApp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "sockets",
+    "mongolab"
+  ],
+  "author": "Anand pratap singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darknightCoder/ChatCatApp/issues"
+  },
+  "homepage": "https://github.com/darknightCoder/ChatCatApp#readme",
+  "dependencies": {
+    "connect-mongo": "1.1.0",
+    "ejs": "^2.3.4",
+    "express": "^4.14.0",
+    "express-session": "1.12.1",
+    "mongoose": "^4.5.4",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.0.0",
+    "passport-twitter": "^1.0.3",
+    "socket.io": "1.4.8"
+  }
+}
