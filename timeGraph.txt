@@ -1,0 +1,27 @@
+Simple design
+7:37:23
+7:49:10
+7:21:12
+
+
+9:53
+Ucmdb type design
+3:32
+3:32
+3:29
+
+
+Simple test design
+3:15
+3:19
+3:21
+
+
+
+9:44
+9:38
+8a828c4f5851bf45015861878bdb03ea
+
+custom spec: UseVmName_Linux
+datacenter name:CLOUD
+template_reference : Ubuntu_12
